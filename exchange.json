@@ -1,1 +1,11 @@
-{"main":"git_test_oct22.raml","name":"git_test_Oct22","classifier":"raml","tags":[]}
+{
+  "main" : "git_test_oct22.raml",
+  "name" : "git_test_Oct22",
+  "classifier" : "raml",
+  "tags" : [ ],
+  "groupId" : "18cef35e-b9d9-4fdd-8335-fda6cba086dc",
+  "assetId" : "git_test_oct22",
+  "version" : "1.0.0",
+  "apiVersion" : "",
+  "dependencies" : [ ]
+}
